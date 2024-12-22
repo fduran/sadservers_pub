@@ -304,11 +304,11 @@ See [Issues](https://github.com/fduran/sadservers/issues)
 - ~~Record Bash command history~~ [DONE]
 - ~~Login using Gmail account.~~ [DONE]
 - ~~Invite system.~~ [DONE]
+- ~~Guided learning system.~~ [DONE], kind of, with Markdown, see [Scenario Guides](https://docs.sadservers.com/docs/scenario-guides/)
 - Multi-VM scenarios, "SRE Simulator"
 - OS package repository cache/proxy server.
 - Downloadable scenario VMs (OVA).
 - Translation of texts to multiple languages.
-- Guided learning system.
 - Look into WebAssembly (WASM) so users can run (some) scenarios in the browser.
 - Look into alternative hosting methods:
     - Kubernetes for Dockerized scenarios.
@@ -317,7 +317,7 @@ See [Issues](https://github.com/fduran/sadservers/issues)
 
 ## Collaboration
 
-I'm not looking for web development (SadServers.com front-end and back-end) help at the moment. The biggest help I'll appreciate is:
+I'll appreciate help with:
 
 - Feedback on the scenarios and general website user experience.
 - Creation of scenarios.
